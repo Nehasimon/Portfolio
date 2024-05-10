@@ -1,0 +1,12 @@
+name: stroke-prediction
+title: stroke-prediction
+username: nehasimon
+account: nehasimon
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11899632
+bundleId: 8562674
+url: https://nehasimon.shinyapps.io/stroke-prediction/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
